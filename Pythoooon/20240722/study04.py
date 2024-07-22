@@ -23,3 +23,7 @@ light_off = False #boolean
 print(light_off)
 print(int(light_off))
 print(float(light_off))
+number = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480
+print(number) #실수는 최대 16자리
+number = 1_000_000
+print(number) #정수 입력 시 언더바는 무시됩니다.
